@@ -1,0 +1,588 @@
+Kai Ken
+Kakapo
+Kangal
+Kangaroo
+Kangaroo Rat
+Keel-Billed Toucan
+Keeshond
+Kerry Blue Terrier
+Key Deer
+Kiko Goat
+Killer Whale
+Kinder Goat
+King Cobra
+King Crab
+King Penguin
+King Shepherd
+Kingfisher
+Kinkajou
+Kishu
+Kiwi
+Koala
+Kodkod
+Koi Fish
+Komodo Dragon
+Kooikerhondje
+Kookaburra
+Koolie
+Krill
+Kudu
+Kuvasz
+Labahoula
+Labmaraner
+Labradane
+Labradoodle
+Labrador Retriever
+Labraheeler
+Ladybug
+Lakeland Terrier
+LaMancha Goat
+Lamprey
+Lancashire Heeler
+Lapponian Herder
+Leaf-Tailed Gecko
+Lemming
+Lemur
+Leonberger
+Leopard
+Leopard Cat
+Leopard Frog
+Leopard Seal
+Leopard Tortoise
+Lhasa Apso
+Lhasapoo
+Liger
+Lion
+Lion’s Mane Jellyfish
+Lionfish
+Little Brown Bat
+Little Penguin
+Lizard
+Llama
+Loach
+Lobster
+Locust
+Long-Eared Owl
+Long-Haired Rottweiler
+Longnose Gar
+Lorikeet
+Lowchen
+Macaroni Penguin
+Macaw
+Mackenzie Wolf
+Magellanic Penguin
+Magpie
+Maine Coon
+Malayan Civet
+Malayan Tiger
+Mallard
+Malteagle
+Maltese
+Maltese Shih Tzu
+Maltipoo
+Man of War Jellyfish
+Manatee
+Manchester Terrier
+Mandrill
+Maned Wolf
+Manta Ray
+Mantella Frog
+Marabou Stork
+Marble Fox
+Marine Iguana
+Marine Toad
+Markhor
+Marmot
+Marsh Frog
+Masked Palm Civet
+Mastador
+Mastiff
+Mayfly
+Meagle
+Mealybug
+Meerkat
+Megalodon
+Megamouth Shark
+Mekong Giant Catfish
+Mexican Alligator Lizard
+Mexican Free-Tailed Bat
+Mexican Mole Lizard
+Miki
+Milkfish
+Millipede
+Mini Labradoodle
+Miniature Bull Terrier
+Miniature Husky
+Miniature Pinscher
+Mink
+Minke Whale
+Mole
+Mole Cricket
+Molly
+Monarch Butterfly
+Mongoose
+Mongrel
+Monitor Lizard
+Monkey
+Monkfish
+Monte Iberia Eleuth
+Moorhen
+Moose
+Moray Eel
+Morkie
+Moscow Watchdog
+Moth
+Mountain Bluebird
+Mountain Cur
+Mountain Feist
+Mountain Gorilla
+Mountain Lion
+Mourning Dove
+Mouse
+Mudi
+Mudpuppy
+Mule
+Muntjac
+Muskox
+Muskrat
+Myna Bird
+Naked Mole Rat
+Narwhal
+Neanderthal
+Neapolitan Mastiff
+Newfoundland
+Newfypoo
+Newt
+Nigerian Goat
+Nightingale
+Nile Crocodile
+No See Ums
+Norfolk Terrier
+North American Black Bear
+Northern Alligator Lizard
+Northern Cardinal
+Northern Fur Seal
+Northern Inuit Dog
+Norwegian Buhund
+Norwegian Elkhound
+Norwegian Forest
+Norwegian Lundehund
+Norwich Terrier
+Nova Scotia Duck Tolling Retriever
+Nubian Goat
+Numbat
+Nurse Shark
+Ocelot
+Octopus
+Okapi
+Old English Sheepdog
+Olm
+Opossum
+Orang-utan
+Orb Weaver
+Ostrich
+Otter
+Otterhound
+Oyster
+Paddlefish
+Pademelon
+Painted Turtle
+Pangolin
+Panther
+Papillon
+Parakeet
+Parrot
+Parrotlet
+Parson Russell Terrier
+Patas Monkey
+Patterdale Terrier
+Peacock
+Peacock Butterfly
+Peagle
+Peekapoo
+Pekingese
+Pelican
+Pembroke Welsh Corgi
+Penguin
+Pere Davids Deer
+Peregrine Falcon
+Perro De Presa Canario
+Persian
+Peruvian Inca Orchid
+Petit Basset Griffon Vendéen
+Petite Goldendoodle
+Pheasant
+Pied Tamarin
+Pig
+Pigeon
+Pika
+Pike Fish
+Pileated Woodpecker
+Pine Marten
+Pink Fairy Armadillo
+Piranha
+Pitador
+Pitsky
+Platypus
+Pocket Beagle
+Pocket Pitbull
+Pointer
+Poison Dart Frog
+Polar Bear
+Polish Lowland Sheepdog
+Polyphemus moth
+Pomapoo
+Pomchi
+Pomeagle
+Pomeranian
+Pomsky
+Pond Skater
+Poochon
+Poodle
+Poogle
+Pool Frog
+Porbeagle Shark
+Porcupine
+Porpoise
+Possum
+Potoroo
+Prairie Dog
+Prairie Rattlesnake
+Prawn
+Proboscis Monkey
+Pronghorn
+Pudelpointer
+Pufferfish
+Puffin
+Pug
+Pugapoo
+Puggle
+Pugshire
+Puma
+Pumi
+Purple Emperor Butterfly
+Purple Finch
+Puss Moth
+Pygmy Hippopotamus
+Pygmy Marmoset
+Pygora Goat
+Pyrador
+Pyredoodle
+Quagga
+Quail
+Quetzal
+Quokka
+Quoll
+Rabbit
+Raccoon
+Raccoon Dog
+Radiated Tortoise
+Ragdoll
+Raggle
+Rat
+Rat Terrier
+Rattlesnake
+Red Finch
+Red Fox
+Red Knee Tarantula
+Red Panda
+Red Squirrel
+Red Wolf
+Red-handed Tamarin
+Red-winged blackbird
+Redback Spider
+Redbone Coonhound
+Reef Shark
+Reindeer
+Rhinoceros
+River Turtle
+Robin
+Rock Crab
+Rock Hyrax
+Rockfish
+Rockhopper Penguin
+Rodents
+Roe Deer
+Rose-breasted Grosbeak
+Roseate Spoonbill
+Rottsky
+Rottweiler
+Royal Penguin
+Ruby-Throated Hummingbird
+Russell Terrier
+Russian Bear Dog
+Russian Blue
+Russian Tortoise
+Saanen Goat
+Saarloos Wolfdog
+Saber-Toothed Tiger
+Sable
+Saiga
+Saint Berdoodle
+Saint Bernard
+Saint Shepherd
+Salamander
+Salmon
+Salmon Shark
+Saluki
+Samoyed
+Sand Lizard
+Sand Tiger Shark
+Saola
+Sardines
+Satanic leaf-tailed gecko
+Savanna Goat
+Sawfish
+Scarlet Macaw
+Schipperke
+Schneagle
+Schnoodle
+Scimitar-horned Oryx
+Scorpion
+Scorpion Fish
+Scottish Terrier
+Sea Anemone
+Sea Dragon
+Sea Lion
+Sea Otter
+Sea Slug
+Sea Squirt
+Sea Turtle
+Sea Urchin
+Seahorse
+Seal
+Sealyham Terrier
+Sei Whale
+Senegal Parrot
+Serval
+Shark
+Sharp-Tailed Snake
+Sheep
+Sheepadoodle
+Shepadoodle
+Shepkita
+Shepweiler
+Shiba Inu
+Shih Poo
+Shih Tzu
+Shoebill Stork
+Shollie
+Shrimp
+Siamese
+Siamese Fighting Fish
+Siberian
+Siberian Husky
+Siberian Retriever
+Siberian Tiger
+Siberpoo
+Silkie Chicken
+Silky Terrier
+Silver Dollar
+Silver Labrador
+Sixgill shark
+Skate Fish
+Skink Lizard
+Skipjack Tuna
+Skunk
+Skye Terrier
+Sleeper Shark
+Sloth
+Slow Worm
+Slug
+Smooth Fox Terrier
+Snail
+Snake
+Snapping Turtle
+Snorkie
+Snow Leopard
+Snowshoe
+Snowshoe Hare
+Snowy Owl
+Somali
+South China Tiger
+Spadefoot Toad
+Spanador
+Spanish Goat
+Spanish Mastiff
+Sparrow
+Spectacled Bear
+Sperm Whale
+Spider Monkey
+Spider Wasp
+Spinner Shark
+Spinone Italiano
+Spiny Dogfish
+Spiny Hill Turtle
+Spixs Macaw
+Sponge
+Spotted Gar
+Spotted Lanternfly
+Springador
+Springbok
+Springerdoodle
+Squid
+Squirrel
+Squirrel Monkey
+Squirrelfish
+Sri Lankan Elephant
+Stabyhoun
+Staffordshire Bull Terrier
+Stag Beetle
+Standard Schnauzer
+Star-nosed mole
+Starfish
+Steller’s Sea Cow
+Stick Insect
+Stingray
+Stoat
+Stone Crab
+Striped Hyena
+Striped Rocket Frog
+Sturgeon
+Sucker Fish
+Sugar Glider
+Sulcata Tortoise
+Sumatran Elephant
+Sumatran Orang-utan
+Sumatran Rhinoceros
+Sumatran Tiger
+Sun Bear
+Swai Fish
+Swan
+Swedish Vallhund
+Syrian Hamster
+Taco Terrier
+Tamaskan
+Tang
+Tapanuli Orang-utan
+Tapir
+Tarantula Hawk
+Tarpon
+Tarsier
+Tasmanian Devil
+Tasmanian Tiger
+Tawny Owl
+Teddy Bear Hamster
+Teddy Roosevelt Terrier
+Tenterfield Terrier
+Termite
+Terrier
+Tetra
+Texas Heeler
+Thai Ridgeback
+Thorny Devil
+Thrush
+Tibetan Fox
+Tibetan Mastiff
+Tibetan Spaniel
+Tibetan Terrier
+Tiffany
+Tiger
+Tiger Beetle
+Tiger Moth
+Tiger Salamander
+Tiger Shark
+Toadfish
+Torkie
+Tortoise
+Toucan
+Toy Fox Terrier
+Toy Poodle
+Transylvanian Hound
+Tree Frog
+Tree Kangaroo
+Tree swallow
+Treeing Tennessee Brindle
+Treeing Walker Coonhound
+Tropicbird
+Tsetse Fly
+Tuatara
+Tuna
+Turkey
+Turkish Angora
+Uakari
+Uguisu
+Umbrellabird
+Utonagan
+Vampire Bat
+Vampire Squid
+Vaquita
+Vervet Monkey
+Vinegaroon
+Virgin Islands Dwarf Gecko
+Vizsla
+Volpino Italiano
+Vulture
+Walking Catfish
+Wallaby
+Walleye Fish
+Walrus
+Wandering Albatross
+Warthog
+Wasp
+Water Buffalo
+Water Dragon
+Water Vole
+Weasel
+Weimaraner
+Weimardoodle
+Welsh Corgi
+Welsh Terrier
+West Highland Terrier
+Western Gorilla
+Western Lowland Gorilla
+Westiepoo
+Whale Shark
+Wheaten Terrier
+Whippet
+White Butterfly
+White Rhinoceros
+White Tiger
+White-Faced Capuchin
+White-tail deer
+White-Tailed Eagle
+Whoodle
+Whooping Crane
+Wild Boar
+Wildebeest
+Willow Warbler
+Wire Fox Terrier
+Wirehaired Pointing Griffon
+Wolf
+Wolf Eel
+Wolf Spider
+Wolffish
+Wolverine
+Wombat
+Wood Bison
+Wood Frog
+Wood Turtle
+Woodlouse
+Woodlouse Spider
+Woodpecker
+Woolly Mammoth
+Woolly Monkey
+Wrasse
+Wyoming Toad
+X-Ray Tetra
+Xerus
+Xoloitzcuintli
+Yak
+Yakutian Laika
+Yellow Sac Spider
+Yellow-Eyed Penguin
+Yellowfin Tuna
+Yeti Crab
+Yoranian
+Yorkie Bichon
+Yorkie Poo
+Yorkshire Terrier
+Zebra
+Zebra Finch
+Zebra Mussels
+Zebra Pleco
+Zebra Shark
+Zebu
+Zonkey
+Zorse
+Zuchon

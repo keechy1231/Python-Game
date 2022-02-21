@@ -1,0 +1,24 @@
+#try to make an inventory
+
+#try to make a levlling system?
+  #great idea, didnt think of leveling in this thing
+
+#how big will the map be?
+  #couple of towns
+  #a dungeon or 2
+  #roads between places with randomised encounters
+  #starting area
+  #battle zomes
+    #maybe each area could be a different script that we import when the player gives an input to go there could be long winded but also makes it so we can spread out the work.
+
+#how do you build a map? 
+  #draw a map of the game entire area
+  #drawe a map of individual areas ie streets and roads or towns if that big
+  3draw a map of individual buildings
+
+#draw a map first? 
+
+#dungeon?? #overworld??
+  #start in a place like skyrim, maybe a prisoner
+  
+  
